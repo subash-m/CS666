@@ -1,0 +1,12 @@
+Mar 30, 2017 2:06:44 AM GarbageAgentPC getCorner
+INFO: in getCorner
+Mar 30, 2017 2:06:44 AM GarbageAgentPC getCorner
+INFO: return getCorner 0
+Mar 30, 2017 2:06:44 AM GarbageAgentPC isObstableFront
+INFO: in isObstableFront
+Mar 30, 2017 2:06:44 AM GarbageAgentPC isObstableFront
+INFO: return isObstableFront false
+Mar 30, 2017 2:06:44 AM GarbageAgentPC getColorFloor
+INFO: in getColorFloor
+Mar 30, 2017 2:06:44 AM GarbageAgentPC getColorFloor
+INFO: return getColorFloor -1
