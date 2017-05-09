@@ -1,7 +1,7 @@
 # Garbage-Collector
 Garbage Collector using Q-Learning
 
-## Compile:
+## Compile and execute:
 ### To run in bluetooth: (Connection from Lego NXT to Computer / Raspberry Pi)
 1) Change ./QGarbagePC/GarbageAgentPC.java line number: 31, 
    replace Consts.USB with Consts.BT
@@ -25,3 +25,4 @@ Garbage Collector using Q-Learning
     * cd QGarbagePC
   * Execute the makefile or execute the commands inside the makefile.
     * make
+
