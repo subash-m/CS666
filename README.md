@@ -14,14 +14,14 @@ Garbage Collector using Q-Learning
    Default code is written for USB. No change is required.
 
 ### To compile the program,
-   1) Execute Lego NXJ program first.  
-* Goto QGarbage folder  
-  * cd QGarbage  
-* Position the robot towards any side of the arena to calibrate the directions.
-* Execute makefile or execute the commands inside the makefile.  
-  * make  
-   2) Execute Lego NXT PC program  
-* Goto QGarbagePC folder
-  * cd QGarbagePC
-* Execute the makefile or execute the commands inside the makefile.
-  * make
+1. Execute Lego NXJ program first.  
+  * Goto QGarbage folder  
+    * cd QGarbage  
+  * Position the robot towards any side of the arena to calibrate the directions.
+  * Execute makefile or execute the commands inside the makefile.  
+    * make  
+2. Execute Lego NXT PC program  
+  * Goto QGarbagePC folder
+    * cd QGarbagePC
+  * Execute the makefile or execute the commands inside the makefile.
+    * make
