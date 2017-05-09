@@ -1,13 +1,15 @@
 # Garbage-Collector
-Garbage Collector using Q-Learning
+Garbage Collector using Q-Learning  
+  
+Autonomous garbage collection and garbage segregation, where the environment has different garbages scattered around, the robot should move around this environment and pick this objects(garbage) and drop it into appropriate bins, while keeping energy in check, if energy is getting lower than threshold, the robot should go to charing station and recharge its energy.
 
 ## Compile and execute:
 ### To run in bluetooth: (Connection from Lego NXT to Computer / Raspberry Pi)
-1) Change ./QGarbagePC/GarbageAgentPC.java line number: 31, 
+1) Change ./QGarbagePC/GarbageAgentPC.java line number: 31,  
    replace Consts.USB with Consts.BT
-2) Change ./QGarbage/GarbageAgentNXT.java line number: 49, 
+2) Change ./QGarbage/GarbageAgentNXT.java line number: 49,  
    replace Button.ID_RIGHT with Button.ID_LEFTasdfsadfaf
-3) Change ./QGarbage/makefile line number: 11, 
+3) Change ./QGarbage/makefile line number: 11,  
    replace -u with -b.
 
 ### To run in USB: (Connection from Lego NXT to Computer / Raspberry Pi)
