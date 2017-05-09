@@ -14,7 +14,7 @@ To run in USB: (Connection from Lego NXT to Computer / Raspberry Pi)
    Default code is written for USB. No change is required.
 
 To compile the program,
-   1) Execute Lego NXJ program first.
-      a) Goto QGarbage folder
-         *  cd QGarbage
+   1) Execute Lego NXJ program first.  
+      a) Goto QGarbage folder  
+*  cd QGarbage
       b) execute make * 
