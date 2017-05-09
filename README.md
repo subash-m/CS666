@@ -32,4 +32,11 @@ A Demo of the project can be found in this link.
     * cd QGarbagePC
   * Execute the makefile or execute the commands inside the makefile.
     * make
-
+* To run Multi Robot system.
+  * Copy the same code to all the computers.
+  * Edit the ./QGarbagePC/Consts.java file
+    * Line number: 23
+    * Give unique numbers to each system in the range (1-254)
+  * All the computers should be connected to the same network.
+  * I would recommend to test with a dedicated router.
+    * Since, we use multicast broadcast service, the connection is not reliable for communication, if it is already managing some traffic.
