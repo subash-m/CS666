@@ -25,7 +25,7 @@ Autonomous garbage collection and garbage segregation, where the environment has
 |:---:|:---:|
 | Raspberry Pi mounted on Legokit (Front_View) | Raspberry Pi mounted on Legokit (Side_View) |
 
-## Areana Design
+## Arena Design
 
 | <img src="/Images/6.jpg" width="436px" alt="Arena with garbage scattered in the arena">  | <img src="/Images/5.jpg" width="436px" alt="Arena with few garbage sorted to appropriate bins"> |
 |:---:|:---:|
