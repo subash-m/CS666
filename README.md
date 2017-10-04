@@ -1,6 +1,23 @@
 # Q-Learning based Behavior Adaptation in Multi-Robot Systems
-  
+
+## Abstract 
+
+ - An approach to the problem of autonomous mobile garbage collecting and sorting robot using reinforcement learning.
+ - Q-learning is one kind of the reinforcement learning algorithm, which we used for learning the actions based on rewards.
+
+## Inspiration
+
+ - <b>Google DeepMind</b> created an artificial intelligence program using deep reinforcement learning that plays Atari games and improves itself to a superhuman level.
+ - The most important thing to know is that all that agent is given is sensory inputs(what we see on the screen) and it was ordered to maximize the score on the screen.
+ - <b>No Domain Knowledge</b> is involved! This means that the algorithm doesn't know the concept of ball or what the controls exactly do.
+
+[![Google Deepmind's Deep Q-learning playing Atari Breakout](https://img.youtube.com/vi/V1eYniJ0Rnk/0.jpg "Click to watch video!")](https://www.youtube.com/watch?v=V1eYniJ0Rnk)
+
+## Problem Statement
+
 Autonomous garbage collection and garbage segregation, where the environment has different garbages scattered around, the robot should move around this environment and pick this objects(garbage) and drop it into appropriate bins, while keeping energy in check, if energy is getting lower than threshold, the robot should go to charing station and recharge its energy.
+
+
 
 More information about the assignment can be found in the report.  
 * Garbage_Collector_Project_Report.pdf
