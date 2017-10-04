@@ -11,7 +11,9 @@
  - The most important thing to know is that all that agent is given is sensory inputs(what we see on the screen) and it was ordered to maximize the score on the screen.
  - <b>No Domain Knowledge</b> is involved! This means that the algorithm doesn't know the concept of ball or what the controls exactly do.
 
-[![Google Deepmind's Deep Q-learning playing Atari Breakout](https://img.youtube.com/vi/V1eYniJ0Rnk/0.jpg "Click to watch video!")](https://www.youtube.com/watch?v=V1eYniJ0Rnk)
+| [![Google Deepmind's Deep Q-learning playing Atari Breakout](https://img.youtube.com/vi/V1eYniJ0Rnk/0.jpg "Click to watch video!")](https://www.youtube.com/watch?v=V1eYniJ0Rnk) |
+|:---:|
+| Google DeepMind's Deep Q-learning playing Atari Breakout |
 
 ## Problem Statement
 
@@ -29,10 +31,12 @@ Autonomous garbage collection and garbage segregation, where the environment has
 |:---:|:---:|
 | Arena with garbage scattered in the arena | Arena with few garbage sorted to appropriate bins |
 
+## Project Demo
 
+| [![Project Demo](https://img.youtube.com/vi/rCjFV8R2Cls/0.jpg "Click to watch video!")](https://www.youtube.com/watch?v=rCjFV8R2Cls) |
+|:---:|
+| Project Demo - Garbage Collector using Q-learning |
 
-More information about the assignment can be found in the report.  
-* Garbage_Collector_Project_Report.pdf
 
 A Demo of the project can be found in this link.  
 * https://youtu.be/rCjFV8R2Cls
