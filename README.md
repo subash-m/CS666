@@ -17,6 +17,18 @@
 
 Autonomous garbage collection and garbage segregation, where the environment has different garbages scattered around, the robot should move around this environment and pick this objects(garbage) and drop it into appropriate bins, while keeping energy in check, if energy is getting lower than threshold, the robot should go to charing station and recharge its energy.
 
+## Robot Design
+
+| <img src="/Images/1.jpg" width="250px" alt="Raspberry Pi mounted on Legokit(Front View)">  | <img src="/Images/2.jpg" width="622px" alt="Raspberry Pi mounted on Legokit(Side View)"> |
+|:---:|:---:|
+| Raspberry Pi mounted on Legokit(Front View) | Raspberry Pi mounted on Legokit(Side View) |
+
+## Areana Design
+
+| <img src="/Images/6.jpg" width="436px" alt="Arena with garbage scattered in the arena">  | <img src="/Images/5.jpg" width="436px" alt="Arena with few garbage sorted to appropriate bins"> |
+|:---:|:---:|
+| Arena with garbage scattered in the arena | Arena with few garbage sorted to appropriate bins |
+
 
 
 More information about the assignment can be found in the report.  
